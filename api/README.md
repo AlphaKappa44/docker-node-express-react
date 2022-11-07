@@ -107,11 +107,11 @@ docker compose down --rmi all -v
 ***PUSH image to DOCKER HUB***
 
 ``` Bash
-docker push alphakappa77/express_api
+docker push dockerhub_username/dockerhub_repository
 ```
 
 ***PULL image from DOCKER HUB***
 
 ``` Bash
-docker pull alphakappa77/express_api
+docker pull dockerhub_username/dockerhub_repository
 ```
